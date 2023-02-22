@@ -1,0 +1,10 @@
+ipython
+omegaconf
+pydub
+PyYAML
+torch
+torchaudio
+Flask
+jsonify
+PySoundFile
+numpy
